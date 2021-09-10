@@ -1,0 +1,21 @@
+B O D M A S
+1.  (2+3) <-> Brackets
+
+2.  2**2   <-> power
+    =4
+
+3.   10*10 <-> multiplication
+     =100
+
+3.   100/10 <-> division
+     =10
+
+4.   1024+5  <-> addition
+     =1029
+
+
+5.   2020-10  <-> subtraction
+     =2010
+
+x=4**5-(5**5+7)/6
+ =502
